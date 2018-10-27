@@ -50,10 +50,10 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profil.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "Mathilde.Vion@student.umons.ac.be"
+  email = "mathilde.vion@student.umons.ac.be"
   address = "Plaine de Nimy/Pentagone 3D, 8 avenue du champ de mars, 7000 Mons, Belgium"
   office_hours = "Please, send me an email for appointment"
-  phone = "+32/0491.48.65.94
+  phone = "+32/0491486594"
   skype = ""
   telegram = ""
 
@@ -207,7 +207,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:Mathilde.Vion@student.umons.ac.be"
+    link = "mailto:mathilde.vion@student.umons.ac.be"
 
   [[params.social]]
     icon = "github"
