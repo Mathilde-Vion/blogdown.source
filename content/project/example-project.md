@@ -3,7 +3,7 @@
 date = "2018-09-24"
 
 # Project title.
-title = "Artificial intelligence"
+title = ""
 
 # Project summary to display on homepage.
 summary = "A short summary of my project."
