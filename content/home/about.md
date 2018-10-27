@@ -13,7 +13,8 @@ weight = 5
     "Biology",
     "Environment",
     "Sport",
-    "Animals"
+    "Animals",
+    "SDD"
   ]
 
 # List your qualifications (such as academic degrees).

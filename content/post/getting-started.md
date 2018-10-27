@@ -3,21 +3,23 @@ date = 2016-04-20
 lastmod = 2018-09-20
 draft = false
 tags = ["academic", "hugo"]
-title = "Mon premier blog"
+title = "My first blog"
 math = true
 summary = """
-Résumé en une ou deux phrases ici. 
+ 
 """
 
 [header]
-image = "headers/wallpaper.jpg"
-caption = "Image credit: **eberhard grossgasteiger** on Unsplash"
+image = "headers/robot.jpg"
+caption = "Image credit: **Franck V.** on Unsplash"
+Follow
+Message
 preview = false
 
 +++
 
-Le contenu ici
+## Artificial Intelligence
 
-## Un titre
-
-Du texte **avec une partie en gras**...
+Artificial intelligence (AI) is a really interesting subject because a lot of people think that we will be soon able to develop this amazing technology. People are scared to see machine that can respond like us and are capable to beat us. A lot of science-fiction movies are made from that and descride how humans are feared to see machines can control the whole world. 
+But does this really works ?     
+Artificial intelligence works by associating high volumes of data using quick algorithms which allows itself to self-learn automatically from the characteristics of such data. It can successfully understand a human conversation or competing strategic games (like chess) for example.
