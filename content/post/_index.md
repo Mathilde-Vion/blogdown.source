@@ -6,7 +6,7 @@ highlight = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/secondary-header.jpg"
-caption = "Image credit: **Derek Thompson** on Unsplash"
+image = "headers/java.jpg"
+caption = "Image credit: **Muhammad Rafi** on Unsplash"
 
 +++
