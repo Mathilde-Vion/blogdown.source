@@ -33,8 +33,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/wallpaper.jpg"
-caption = "Image credit: [**Kevin Phillips**](http://www.publicdomainpictures.net/view-image.php?image=137855&picture=sunset-beach)"
+image = "headers/sequoia.jpg"
+caption = "Image credit: [**Victoria Palacios**](http://www.publicdomainpictures.net/view-image.php?image=137855&picture=sunset-beach)"
 
 +++
 

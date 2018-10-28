@@ -13,7 +13,6 @@ weight = 5
     "Biology",
     "Environment",
     "Sport",
-    "Animals",
     "SDD"
   ]
 
@@ -37,6 +36,6 @@ weight = 5
 
 # About Me
 
-I am a second year student in Biology at the University of Mons, Belgium.
+I am a second year student in Biology at the University of Mons, Belgium. 
 
 When I am not studying I practise judo and like to spend some time with my friends.
