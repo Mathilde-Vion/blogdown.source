@@ -7,7 +7,7 @@ highlight = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/sequoia.jpg"
+image = "headers/dominik-dombrowski-80197-unsplash.jpg"
 caption = "Image credit: [**Kevin Phillips**](http://www.publicdomainpictures.net/view-image.php?image=137855&picture=sunset-beach)"
 +++
 

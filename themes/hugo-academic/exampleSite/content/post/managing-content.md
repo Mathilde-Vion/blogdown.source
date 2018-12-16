@@ -100,7 +100,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/sequoia.jpg"
+image = "headers/dominik-dombrowski-80197-unsplash.jpg"
 caption = "My caption :smile:"
 
 +++
